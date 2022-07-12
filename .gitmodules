@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "topmodel"]
-	path = topmodel
-	url = https://github.com/ichydro/topmodel
-	shallow = true
-	subdir = topmodel
-	registered = true
