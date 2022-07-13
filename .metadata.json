@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "topmodel",
+    "oncran": true
+  }
+]
